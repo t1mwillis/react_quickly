@@ -1,0 +1,23 @@
+{
+  "name": "babel-jsx-test",
+  "version": "1.0.0",
+  "description": "for testing jsx",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "author": "",
+  "license": "ISC",
+  "presets": [
+    "react",
+    "es2015"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "babel-preset-react": "^6.5.0"
+  }
+}
